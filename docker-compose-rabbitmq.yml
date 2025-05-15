@@ -9,6 +9,3 @@ services:
       - RABBITMQ_DEFAULT_PASS=guest
     volumes:
       - rabbitmq-data:/var/lib/rabbitmq
-
-volumes:
-  rabbitmq-data:

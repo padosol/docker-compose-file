@@ -2,3 +2,5 @@ postgres/
 postgres_data/
 rabbitmq/
 rabbitmq_data/
+prometheus/
+grafana-data/
